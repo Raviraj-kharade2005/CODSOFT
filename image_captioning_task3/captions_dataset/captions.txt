@@ -1,0 +1,2 @@
+sample1.jpg	A man riding a bicycle
+sample2.jpg	A dog playing with a ball
